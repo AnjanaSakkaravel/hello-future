@@ -1,0 +1,6 @@
+//hello-future
+#include<stdio.h>
+int main()
+{
+printf("Hello future!");
+}
